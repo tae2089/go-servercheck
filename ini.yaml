@@ -1,0 +1,7 @@
+servers:
+  [
+    "https://rokithealthcare.com/ko/",
+    "https://1minute-before6pm.tistory.com/19",
+  ]
+email: "test@naver.com"
+slack: "webhook url 입력"
